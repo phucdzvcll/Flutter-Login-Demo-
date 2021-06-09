@@ -1,16 +1,20 @@
-# bloc_login_demo
+Login Firebase App
 
-A new Flutter project.
+## Important ingredients 
+- [State Management BloC](https://bloclibrary.dev/#/)
+- [Firebase](https://firebase.flutter.dev/)
 
-## Getting Started
+## Plugin 
 
-This project is a starting point for a Flutter application.
+- [BloC](https://plugins.jetbrains.com/plugin/12129-bloc)
 
-A few resources to get you started if this is your first Flutter project:
+## Rule
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Separation of business logic with Ui
+- Ui will be updated through BloC
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![](readme_images/login.gif)
+![](readme_images/check_email_exist.gif)
+![](readme_images/register.gif)
+
